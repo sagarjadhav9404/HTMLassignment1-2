@@ -1,0 +1,27 @@
+body{
+    background-color:aquamarine;
+}
+
+div{
+    font-family: sans-serif;
+    border: solid black;
+    padding: 50px;
+    text-align: left;
+    height: 400px;
+    width: 300px;
+    position: relative;
+    left: 430px;
+    top: 50px;
+    background-color: bisque;
+    border-radius: 5px;
+}
+
+ /* input{
+    margin: 10px;
+} */
+
+#pad{
+    
+    margin-top: 25px;
+    margin-right: 5px;
+}
